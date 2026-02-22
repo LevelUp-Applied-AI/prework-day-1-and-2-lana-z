@@ -28,3 +28,14 @@ Configure the pull request:
 5. Your TA reviews and merges when everything passes
 
 6. Submit the Pull Request URL in the Text input in your Assignment in TalentLMS.
+
+## About
+
+Lana Z's submission repository for the AI.SPIRE Pre-Work program. This repo contains Day 1 and Day 2 assignments covering laptop verification, Git setup, and first terminal workflow.
+
+## Setup
+
+```bash
+git clone https://github.com/LevelUp-Applied-AI/prework-day-1-and-2-lana-z.git
+cd prework-day-1-and-2-lana-z
+```
